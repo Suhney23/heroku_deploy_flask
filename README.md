@@ -17,7 +17,7 @@ workflow working where indicated below.
 
 1. Conceptual Overview - [Here](https://youtu.be/u4RaG_elMbQ)
 2. Slides - [Here](dj.pdf)
-3. How to complete assignment - [Here]()
+3. How to complete assignment - [Here](https://youtu.be/d4t7IYJxi8w)
 
 ## Put the production workflow badge here
 
