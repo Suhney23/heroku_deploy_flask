@@ -16,7 +16,8 @@ workflow working where indicated below.
 ### Unit Videos
 
 1. Conceptual Overview - [Here](https://youtu.be/u4RaG_elMbQ)
-2. How to complete assignment - [Here]()
+2. Slides - [Here](dj.pdf)
+3. How to complete assignment - [Here]()
 
 ## Put the production workflow badge here
 
